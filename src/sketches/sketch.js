@@ -26,8 +26,9 @@ export default function sketch (p5) {
 		// If it's an image file
 		if (file.type === 'image') {
 			// Create an image DOM element but don't show it
-			const img = p5.createImg(file.data).hide()
+			const img = p5.createImg(file.data, "Your image").hide()
 			// Draw the image onto the canvas
+    		// p5.background(255)
 			p5.image(img, 0, 0, p5.width, p5.height)
 		} else {
 			alert('Not an image file!')
