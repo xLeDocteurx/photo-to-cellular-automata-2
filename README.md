@@ -1,3 +1,6 @@
+## Try it here :
+https://xledocteurx.github.io/photo-to-cellular-automata-2
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
