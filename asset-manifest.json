@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/photo-to-cellular-automata-2/static/css/main.d0f4b2c6.chunk.css",
+    "main.js": "/photo-to-cellular-automata-2/static/js/main.854f30ca.chunk.js",
+    "main.js.map": "/photo-to-cellular-automata-2/static/js/main.854f30ca.chunk.js.map",
+    "runtime-main.js": "/photo-to-cellular-automata-2/static/js/runtime-main.c7c2b80a.js",
+    "runtime-main.js.map": "/photo-to-cellular-automata-2/static/js/runtime-main.c7c2b80a.js.map",
+    "static/js/2.42007ad1.chunk.js": "/photo-to-cellular-automata-2/static/js/2.42007ad1.chunk.js",
+    "static/js/2.42007ad1.chunk.js.map": "/photo-to-cellular-automata-2/static/js/2.42007ad1.chunk.js.map",
+    "index.html": "/photo-to-cellular-automata-2/index.html",
+    "precache-manifest.f809559eb058d421698b142b9c743d86.js": "/photo-to-cellular-automata-2/precache-manifest.f809559eb058d421698b142b9c743d86.js",
+    "service-worker.js": "/photo-to-cellular-automata-2/service-worker.js",
+    "static/css/main.d0f4b2c6.chunk.css.map": "/photo-to-cellular-automata-2/static/css/main.d0f4b2c6.chunk.css.map",
+    "static/js/2.42007ad1.chunk.js.LICENSE": "/photo-to-cellular-automata-2/static/js/2.42007ad1.chunk.js.LICENSE",
+    "static/media/logo.svg": "/photo-to-cellular-automata-2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7c2b80a.js",
+    "static/js/2.42007ad1.chunk.js",
+    "static/css/main.d0f4b2c6.chunk.css",
+    "static/js/main.854f30ca.chunk.js"
+  ]
+}
